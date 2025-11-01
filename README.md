@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Shariyer Shazan</h1>
+<h1 align="center">Hey there! 👋 I'm Khairul Islam Seam</h1>
 <h3 align="center">🚀Software Engineer | Full Stack (MERN) Web Developer</h3>
 
 <!-- Visitor Counter -->
@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="./2.png" width="100%" alt="shazan Banner"/>
+  <img src="./2.png" width="100%" alt="Khairul Banner"/>
 </p>
 
 
