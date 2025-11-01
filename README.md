@@ -8,11 +8,11 @@
 </p>
  -->
 
-
+<!-- 
 <p align="center">
   <img src="./2.png" width="100%" alt="Khairul Banner"/>
 </p>
-
+-->
 
 
 ### 🌍 Let's Connect
