@@ -63,10 +63,43 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=KISeam&show_icons=true&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KISeam&layout=compact&theme=radical&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=KISeam&theme=radical&hide_border=true)
+### 📈 Development Metrics
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=KISeam&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KISeam&theme=radical&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
+### 💻 Language Usage
+<table>
+  <tr>
+    <td align="center">
+      <strong>Most Used Languages</strong><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KISeam&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Most Used Languages" />
+    </td>
+    <td align="center">
+      <strong>Weekly Development Breakdown</strong><br>
+      <!-- This would typically require a custom solution, but we can use wakatime stats if available -->
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KISeam&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="WakaTime Stats" />
+    </td>
+  </tr>
+</table>
+
+### 📊 Contribution Analytics
+<table>
+  <tr>
+    <td align="center">
+      <strong>Commit Calendar</strong><br>
+      <!-- This shows the contribution graph -->
+      <img src="https://activity-graph.herokuapp.com/graph?username=KISeam&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -112,6 +145,18 @@
 
 ---
 
+## 📝 Recent Activity
+
+<!--START_SECTION:activity-->
+<!-- This section can be populated with recent GitHub activity using a GitHub Action -->
+* 🎉 Committed to multiple projects
+* 🔄 Working on full-stack applications
+* 📚 Learning new technologies
+* 🚀 Deploying projects
+<!--END_SECTION:activity-->
+
+---
+
 <div align="center">
 
 ### 📫 Let's Connect & Collaborate!
@@ -127,5 +172,21 @@
 <div align="center">
 
 ![Visitors](https://komarev.com/ghpvc/?username=KISeam&color=blue&style=flat-square)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Coding Time Distribution (Sample)
+```text
+JavaScript    ████████████████████ 65%
+TypeScript    ████████████ 45%
+Python        ███████ 30%
+Java          █████ 20%
+C++           ███ 15%
+HTML/CSS      ██████████ 40%
+```
 
 </div>
