@@ -118,10 +118,9 @@
 ### 💻 About Me:
 
 - 🔭 I’m currently working as a **Full-Stack Web Developer** using the MERN stack.  
-- 🎓 Pursuing Bsc in Computure science at **Southeast Univarsity**.   
 - 💡 Exploring **AI integration**, **React-native**, **Postgresql-Docker-MySQL**, and **modern web architecture** in real-world apps.  
 - 💬 Ask me about **JavaScript, TypeScript, React, Redux, Next.js, Node, Express, MongoDB, Firebase, Mongoose**, or **project deployment**.  
-- 📄 <a target="_blank" href="https://drive.google.com/file/d/1ynzYQHcYjNxNQxZyfW84zooNeundGdNk/view">View My Resume</a>
+##- 📄 <a target="_blank" href="https://drive.google.com/file/d/1ynzYQHcYjNxNQxZyfW84zooNeundGdNk/view">View My Resume</a>
 
 ---
 
