@@ -5,7 +5,7 @@
 
 [![Email](https://img.shields.io/badge/📧_khairulislamseam01@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:khairulislamseam01@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/👔_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khairul-islam-seam)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](#)
+<!-- [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](#) -->
 [![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KISeam)
 
 </div>
