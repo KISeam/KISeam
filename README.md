@@ -71,8 +71,9 @@
   </tr>
 </table>
 
-### **Commit Activity**
+<!--### **Commit Activity**
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KISeam&theme=react-dark&hide_border=true&area=true&custom_title=Recent%20Development%20Activity)
+-->
 
 ### **Achievements**
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KISeam&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4)
@@ -95,47 +96,57 @@
 ## 💼 Professional Expertise
 
 ### **Technical Competencies**
-```yaml
-Full-Stack Development:
-  - MERN/MEAN Stack Applications
-  - TypeScript & Modern JavaScript
-  - RESTful API Design & Development
-  - Database Architecture & Optimization
+<div align="center">
 
-Software Engineering:
-  - Clean Code & Best Practices
-  - Agile Methodologies
-  - Code Review & Quality Assurance
-  - Technical Documentation & Leadership
+| **Domain** | **Technologies & Skills** | **Proficiency Level** |
+|------------|--------------------------|----------------------|
+| **Frontend Development** | React, Next.js, TypeScript, Redux, Tailwind CSS, Material UI | Advanced |
+| **Backend Development** | Node.js, Express.js, Python, Java, RESTful APIs, Microservices | Advanced |
+| **Database Management** | MongoDB, PostgreSQL, Firebase, Database Design, Optimization | Advanced |
+| **DevOps & Cloud** | Docker, Git, CI/CD, Vercel, AWS, GCP, Deployment | Intermediate-Advanced |
+| **Software Engineering** | System Design, Clean Architecture, Agile Methodologies, Code Review | Advanced |
 
-DevOps & Tools:
-  - Version Control (Git/GitHub)
-  - Containerization (Docker)
-  - CI/CD Pipelines
-  - Cloud Deployment & Monitoring
-```
+</div>
 
 ### **Development Methodology**
+<div align="center">
+
 <table>
   <tr>
-    <th align="center">🚀 Planning</th>
+    <th align="center">🚀 Planning & Design</th>
     <th align="center">💻 Development</th>
-    <th align="center">🔧 Testing</th>
-    <th align="center">🚢 Deployment</th>
+    <th align="center">🧪 Testing & QA</th>
+    <th align="center">🚢 Deployment & Maintenance</th>
   </tr>
   <tr>
-    <td align="center">System Architecture</td>
-    <td align="center">Clean Code Practices</td>
-    <td align="center">Comprehensive Testing</td>
-    <td align="center">CI/CD Pipelines</td>
-  </tr>
-  <tr>
-    <td align="center">UI/UX Design</td>
-    <td align="center">TypeScript & Best Practices</td>
-    <td align="center">Performance Optimization</td>
-    <td align="center">Cloud Platforms</td>
+    <td align="center">
+      • System Architecture<br>
+      • UI/UX Design<br>
+      • Technical Specifications<br>
+      • Project Planning
+    </td>
+    <td align="center">
+      • Clean Code Practices<br>
+      • TypeScript Implementation<br>
+      • Agile Development<br>
+      • Code Documentation
+    </td>
+    <td align="center">
+      • Comprehensive Testing<br>
+      • Performance Optimization<br>
+      • Security Audits<br>
+      • Quality Assurance
+    </td>
+    <td align="center">
+      • CI/CD Pipelines<br>
+      • Cloud Deployment<br>
+      • Monitoring & Analytics<br>
+      • Continuous Improvement
+    </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
