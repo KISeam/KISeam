@@ -65,8 +65,14 @@
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+   <!-- <td align="center" colspan="2">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KISeam&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Most Used Languages" />
+    </td> -->
+    <td align="center" colspan="2">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shariyerShazan&theme=github_dark" width="45%" />
+  </td>
+    <td align="center" colspan="2"
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shariyerShazan&theme=github_dark" width="45%" />
     </td>
   </tr>
 </table>
