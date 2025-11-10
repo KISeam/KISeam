@@ -81,7 +81,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=KISeam&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=KISeam&show_icons=true&theme=radical&hide_border=true" />
     </td>
     <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=KISeam&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -89,9 +89,9 @@
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shariyerShazan&theme=github_dark" width="45%" />
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shariyerShazan&theme=github_dark" width="45%" />
-    </td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KISeam&theme=github_dark"  width="45%"  />
+       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KISeam&theme=github_dark"   width="45%" />
+    </td>     
   </tr>
 </table>
 
