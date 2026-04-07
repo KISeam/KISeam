@@ -24,7 +24,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C#](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c#&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-A8B9CC?style=for-the-badge&logo=csharp&logoColor=black)
 
 **Frontend Technologies**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
