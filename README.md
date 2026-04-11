@@ -87,7 +87,8 @@
 <table align="center">
   <tr>
     <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=KISeam&show_icons=true&theme=radical&hide_border=true" />
+        <!-- <img src="https://github-readme-stats.vercel.app/api?username=KISeam&show_icons=true&theme=radical&hide_border=true" /> -->
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KISeam&layout=compact&theme=radical)
     </td>
     <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=KISeam&theme=radical&hide_border=true" alt="GitHub Streak" />
