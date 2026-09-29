@@ -169,13 +169,21 @@
 </p>
 
 ### 🏆 Achievements
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KISeam&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=KISeam&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4"
+    alt="GitHub Profile Trophies"
+  />
 </p>
 
 ### 🔄 Recent Activity
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KISeam&theme=react-dark&hide_border=true&area=true&custom_title=Recent%20Development%20Activity" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=KISeam&theme=react-dark&hide_border=true&area=true&custom_title=Recent%20Development%20Activity"
+    alt="Recent Development Activity"
+  />
 </p>
 
 ---
