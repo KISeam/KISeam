@@ -158,24 +158,25 @@
 
 ## 📊 GitHub Stats
 
+<!--
+  All cards below come from github-profile-summary-cards and the streak-stats service,
+  which stay up reliably (the old github-readme-stats / trophy / activity-graph
+  Vercel instances are rate-limited and often show broken images).
+-->
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KISeam&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="45%" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KISeam&theme=radical&hide_border=true" width="45%" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KISeam&theme=radical" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=KISeam&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KISeam&layout=compact&theme=radical&hide_border=true&langs_count=8" width="45%" />
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KISeam&theme=github_dark" width="45%" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KISeam&theme=radical" alt="Most Commit Language" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KISeam&theme=radical" alt="Repos per Language" />
 </p>
 
-### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KISeam&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" />
-</p>
-
-### 🔄 Recent Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KISeam&theme=react-dark&hide_border=true&area=true&custom_title=Recent%20Development%20Activity" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KISeam&theme=radical" alt="Profile Details" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KISeam&theme=radical&utcOffset=6" alt="Productive Time" />
 </p>
 
 ---
