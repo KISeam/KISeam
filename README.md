@@ -146,12 +146,6 @@ Case studies read like worked problems: what was given, what had to be found, ho
 
 ## 📊 GitHub Stats
 
-<!--
-  All cards below come from github-profile-summary-cards and the streak-stats service,
-  which stay up reliably (the old github-readme-stats / trophy / activity-graph
-  Vercel instances are rate-limited and often show broken images).
--->
-
 <p align="center">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KISeam&theme=radical" alt="GitHub Stats" />
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=KISeam&theme=radical&hide_border=true" alt="GitHub Streak" />
