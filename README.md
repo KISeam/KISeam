@@ -42,7 +42,6 @@ Case studies read like worked problems: what was given, what had to be found, ho
 
 ---
 
-
 ## 🔧 Tech Stack
 
 ### ⚡ Languages
