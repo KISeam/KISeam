@@ -26,6 +26,7 @@
 
 ## 🛠️ Featured Projects
 
+
 Case studies read like worked problems: what was given, what had to be found, how I approached it, and the result.
 
 | Project | What it is | Stack | Links |
