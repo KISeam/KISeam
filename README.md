@@ -148,7 +148,7 @@ Case studies read like worked problems: what was given, what had to be found, ho
 
 <p align="center">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KISeam&theme=radical" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=KISeam&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=KISeam&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
